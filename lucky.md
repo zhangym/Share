@@ -1,6 +1,6 @@
-# 安人心智集团资源、经验共享库
+# MindMining资源、经验共享库
 
-内容主要存放于 [wiki](https://github.com/OpenMindClub/Share/wiki) ，共建请参考1为 额我 去：
+内容主要存放于 [wiki](https://github.com/OpenMindClub/Share/wiki) ，共建请参考：
 
 - [缩写规约](https://github.com/OpenMindClub/Share/wiki/HbShortRule)
 - [协作文档创建指南](https://github.com/OpenMindClub/Share/wiki/HbDoc)
